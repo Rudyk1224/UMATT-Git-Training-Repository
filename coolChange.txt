@@ -1,5 +1,7 @@
-.<<<<<<< FionaHelpMeFeature
-thisSUCKSSUCKSUSCKS
-=======
+
+Strawberries and watermelon are the best fruits.... No
 mango and mango are the best fruits....
-.>>>>>>> dev
+
+ FionaHelpMeFeature
+thisSUCKSSUCKSUSCKS
+
