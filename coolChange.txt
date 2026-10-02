@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-Strawberries and watermelon are the best fruits.... No they are not
-=======
+
 Strawberries and watermelon are the best fruits.... No
 
->>>>>>> Stashed changes
