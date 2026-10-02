@@ -1,1 +1,5 @@
+.<<<<<<< FionaHelpMeFeature
 thisSUCKSSUCKSUSCKS
+=======
+mango and mango are the best fruits....
+.>>>>>>> dev
